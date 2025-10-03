@@ -24,5 +24,4 @@ A simple and modern weather application that allows users to check the current w
 1. **Clone the repository:**
 
 ```bash
-(https://github.com/balajishanuuu/Weather-App)
-]
+https://github.com/balajishanuuu/Weather-App
